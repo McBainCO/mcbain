@@ -5,11 +5,12 @@ body {
 
 .wrapper {
   padding-top: 10%;
+  padding-left: 10%;
   margin: auto;
-  width: 700px;
-  text-align: center;
+  text-align: left;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
-  font-size:24px;
-  display: inline-block;
+  font-size:64px;
+  display: inline;
+  position: absolute;
 }
